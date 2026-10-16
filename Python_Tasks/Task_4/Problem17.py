@@ -1,5 +1,5 @@
 # Problem Name: Finding the Percentage
-# HackerRank Link: https://www.hackerrank.com/challenges/py-finding-the-percentage/problem
+# HackerRank Link: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 
 if __name__ == '__main__':
     n = int(input())
